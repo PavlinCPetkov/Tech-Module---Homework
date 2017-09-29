@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AddTwoNumbers
 {
-    class Program
+    class AddTwoNumbers
     {
         static void Main(string[] args)
         {
