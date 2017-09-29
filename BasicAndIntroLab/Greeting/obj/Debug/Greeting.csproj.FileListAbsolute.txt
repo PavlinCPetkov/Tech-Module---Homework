@@ -1,7 +1,0 @@
-C:\Users\Pavkata\Desktop\SoftUni\TechModule\EighteenOfSeptember\Greeting\bin\Debug\Greeting.exe.config
-C:\Users\Pavkata\Desktop\SoftUni\TechModule\EighteenOfSeptember\Greeting\bin\Debug\Greeting.exe
-C:\Users\Pavkata\Desktop\SoftUni\TechModule\EighteenOfSeptember\Greeting\bin\Debug\Greeting.pdb
-C:\Users\Pavkata\Desktop\SoftUni\TechModule\EighteenOfSeptember\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
-C:\Users\Pavkata\Desktop\SoftUni\TechModule\EighteenOfSeptember\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
-C:\Users\Pavkata\Desktop\SoftUni\TechModule\EighteenOfSeptember\Greeting\obj\Debug\Greeting.exe
-C:\Users\Pavkata\Desktop\SoftUni\TechModule\EighteenOfSeptember\Greeting\obj\Debug\Greeting.pdb
